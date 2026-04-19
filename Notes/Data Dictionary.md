@@ -1,0 +1,21 @@
+* UPS = Uninterruptible Power Supply (Backup Power)
+* VSAT = Satellite Communication (Internet)
+* CRA = Cash Replenishment Agency
+* ATM AMC = ATM Annual Maintenance Cost
+* Monthly Rev = Monthly Revenue from ATM usage (transaction fees)
+* MHA Revenue = Management/Hosting Agreement Revenue (fixed income from bank)
+* ATM Rev Total = Total ATM Revenue (Monthly Rev + MHA Revenue)
+* CRA = Cash Replenishment Agency Cost (cash loading \& transportation)
+* ATM AMC = ATM Annual Maintenance Cost
+* UPS AMC = Uninterruptible Power Supply Maintenance Cost (power backup)
+* VSAT AMC = Very Small Aperture Terminal Maintenance Cost (satellite communication)
+* Total Cost = Total Operational Cost
+* Gross Profit = Revenue - Total Cost
+* GROSS PROFIT % = Profit Percentage
+* Fin Txn = Financial Transactions (withdrawal / deposit)
+* Non Fin Txn = Non-Financial Transactions (balance inquiry / services)
+* AVG Fin Txn = Average Financial Transactions
+* AVG Non Fin Txn = Average Non-Financial Transactions
+* Monthly Txn = Total Monthly Transactions
+* Up Time = ATM Availability Percentage (working time without failure)
+
