@@ -1,0 +1,19 @@
+Revenue is highly concentrated in a few key regions, with Riyadh and Jeddah leading by a significant margin.
+
+Revenue is not only driven by the number of transactions, but also by the type of transaction and fixed income sources (Revenue doesn’t always increase with more transactions)
+
+Operational costs remain relatively consistent across regions, regardless of revenue differences.
+
+ATM maintenance cost is the highest among all AMC components, followed by VSAT, while UPS has the lowest contribution.
+
+While ATM AMC is the highest maintenance cost, it remains lower than cash replenishment (CRA), indicating that cash handling is the primary cost driver.
+
+Most operational costs are driven by site maintenance rather than equipment repairs.
+
+Some regions show a higher number of underperforming ATMs based on uptime.
+
+Riyadh and Jeddah generate the highest profits despite their high operational costs, with profit margins reaching up to 100%.
+
+Despite not being a top-performing region overall, Tabuk dominates individual ATM performance, with 6 out of the top 10 ATMs, including the top 3.
+
+Jeddah and Makkah record the highest number of ATM downtime occurrences, with repeated cases across multiple months, indicating persistent operational issues.
